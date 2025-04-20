@@ -1,0 +1,90 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\yanpi\\Downloads\\21_Project_Code_V1\\wp_final_template_v5\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E0E3C223-EBDD-4B26-8C9D-9B5A0DB560C5}|FP\\FP\\FP.csproj|c:\\users\\yanpi\\downloads\\21_project_code_v1\\wp_final_template_v5\\fp\\fp\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0E3C223-EBDD-4B26-8C9D-9B5A0DB560C5}|FP\\FP\\FP.csproj|solutionrelative:fp\\fp\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0E3C223-EBDD-4B26-8C9D-9B5A0DB560C5}|FP\\FP\\FP.csproj|c:\\users\\yanpi\\downloads\\21_project_code_v1\\wp_final_template_v5\\fp\\fp\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E0E3C223-EBDD-4B26-8C9D-9B5A0DB560C5}|FP\\FP\\FP.csproj|solutionrelative:fp\\fp\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31EC17D4-D1A4-42E2-80B1-1EDA1FD0CDFB}|wp_final_template_v1\\wp_final_template_v1.csproj|c:\\users\\yanpi\\downloads\\21_project_code_v1\\wp_final_template_v5\\wp_final_template_v1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31EC17D4-D1A4-42E2-80B1-1EDA1FD0CDFB}|wp_final_template_v1\\wp_final_template_v1.csproj|solutionrelative:wp_final_template_v1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31EC17D4-D1A4-42E2-80B1-1EDA1FD0CDFB}|wp_final_template_v1\\wp_final_template_v1.csproj|c:\\users\\yanpi\\downloads\\21_project_code_v1\\wp_final_template_v5\\wp_final_template_v1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{31EC17D4-D1A4-42E2-80B1-1EDA1FD0CDFB}|wp_final_template_v1\\wp_final_template_v1.csproj|solutionrelative:wp_final_template_v1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Login.cs",
+              "DocumentMoniker": "C:\\Users\\yanpi\\Downloads\\21_Project_Code_V1\\wp_final_template_v5\\FP\\FP\\Login.cs",
+              "RelativeDocumentMoniker": "FP\\FP\\Login.cs",
+              "ToolTip": "C:\\Users\\yanpi\\Downloads\\21_Project_Code_V1\\wp_final_template_v5\\FP\\FP\\Login.cs",
+              "RelativeToolTip": "FP\\FP\\Login.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAACfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-10T12:27:17.997Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Login.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\yanpi\\Downloads\\21_Project_Code_V1\\wp_final_template_v5\\FP\\FP\\Login.cs",
+              "RelativeDocumentMoniker": "FP\\FP\\Login.cs",
+              "ToolTip": "C:\\Users\\yanpi\\Downloads\\21_Project_Code_V1\\wp_final_template_v5\\FP\\FP\\Login.cs [Design]",
+              "RelativeToolTip": "FP\\FP\\Login.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-10T12:27:16.732Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\yanpi\\Downloads\\21_Project_Code_V1\\wp_final_template_v5\\wp_final_template_v1\\Form1.cs",
+              "RelativeDocumentMoniker": "wp_final_template_v1\\Form1.cs",
+              "ToolTip": "C:\\Users\\yanpi\\Downloads\\21_Project_Code_V1\\wp_final_template_v5\\wp_final_template_v1\\Form1.cs",
+              "RelativeToolTip": "wp_final_template_v1\\Form1.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAD4vzwAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-10T12:24:12.004Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\yanpi\\Downloads\\21_Project_Code_V1\\wp_final_template_v5\\wp_final_template_v1\\Form1.cs",
+              "RelativeDocumentMoniker": "wp_final_template_v1\\Form1.cs",
+              "ToolTip": "C:\\Users\\yanpi\\Downloads\\21_Project_Code_V1\\wp_final_template_v5\\wp_final_template_v1\\Form1.cs [Design]",
+              "RelativeToolTip": "wp_final_template_v1\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-10T12:24:09.495Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
